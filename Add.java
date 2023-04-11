@@ -2,8 +2,8 @@ public class Add
 {
 	public static void main(String[] args)
 	{
-		int number1 = 10;
-		int number2 = 14;
+		int number1 = 1;
+		int number2 = 1;
 		int number3 =2;
 		//number1++;
 		//number1++;
